@@ -76,6 +76,8 @@
 
     - **bannerPath**: Path of the animated banner stored on your local machine. The file should be a `.gif` file **for the animation to work**. You can also use `.png`, `.jpg` or other standard image files **for static images**.
 
+    > **Discord reccomends to use alreast a** `680x240` **image/gif for the banner**.
+
     > **For Windows users, please ensure the path is formatted like this**: `C:\\Users\\Username\\<complete-path>\\<file-name>.gif`. **Avoid using `/` in the path.**
 
     > **For Linux and Mac users, the path should follow this format**: `/home/username/<complete-path>/<file-name>.gif`.
