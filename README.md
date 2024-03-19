@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="https://raw.githubusercontent.com/zingzy/discord-bot-animation/main/assets/pfp.gif" alt="Discord Bot Animation Icon">
+    <img src="https://raw.githubusercontent.com/zingzy/discord-bot-animator/main/assets/pfp.gif" alt="Discord Bot Animation Icon" height=150>
 </p>
 
 <br>
@@ -23,8 +23,6 @@
 - [👀 Example](#-example)
 - [⚠️ Warnings](#️-warnings)
 - [💬 FAQs](#-faqs)
-- [📜 Changelog](#-changelog)
-  - [**v1.0.0** (March 19, 2024)](#v100-march-19-2024)
 - [🔧 Contact \& Support](#-contact--support)
 
 </details>
@@ -103,7 +101,7 @@
 ## 👀 Example
 
 <p align=center>
-    <img src="https://raw.githubusercontent.com/zingzy/discord-bot-animation/main/assets/example.gif" alt="Discord Bot Animation Example">
+    <img src="https://raw.githubusercontent.com/Zingzy/discord-bot-animator/main/assets/example.gif" alt="Discord Bot Animation Example">
 </p>
 
 ## ⚠️ Warnings
@@ -128,7 +126,7 @@
 
 3. **Is this script safe to use?**
 
-    - Yes, this script is safe to use. It only interacts with the Discord API to change the bot's avatar and banner.
+    - **Yes, this script is safe to use**. It only interacts with the Discord API to change the bot's avatar and banner.
 
 4. **Is it safe to share the bot token?**
 
@@ -145,12 +143,6 @@
 7. **Is this completely free and discord TOS compliant?**
 
     - Yes, this script is completely free and discord TOS compliant. **It does not violate any of the Discord's Terms of Service**. Discord recently added the feature to apply animated avatars and banners to bots. This script uses the same feature to apply the animated avatar and banner. You can refer to the [Discord Developer Documentation](https://discord.com/developers/docs) for more information.
-
-## 📜 Changelog
-
-### **v1.0.0** (March 19, 2024)
-
-- Initial release of the script.
 
 ## 🔧 Contact & Support
 
